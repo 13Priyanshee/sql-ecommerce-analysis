@@ -1,6 +1,6 @@
-# Project 2 — Brazilian E-Commerce (Olist)
+# Brazilian E-Commerce Analysis (Olist) — SQL & PostgreSQL
 
-**Goal:** build a resume-ready analysis from Olist's public Brazilian e-commerce dataset (about 100k orders across nine CSVs). Dataset link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+**Goal:**Analysis of ~100K orders from Olist's public Brazilian e-commerce dataset (9 tables) using PostgreSQL, covering revenue trends, product categories, payments, delivery performance, and customer behavior. Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Setup
 
